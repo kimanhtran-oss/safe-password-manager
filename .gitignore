@@ -1,0 +1,15 @@
+# Môi trường ảo
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# File vault chứa dữ liệu mật khẩu: KHÔNG BAO GIỜ commit
+*.vault
+vault.json
+
+# IDE / hệ điều hành
+.vscode/
+.DS_Store
+Thumbs.db
